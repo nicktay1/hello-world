@@ -22,5 +22,3 @@ build:
   steps:
     - script:
         name: echo
-        code: |
-          echo "hello world!"
